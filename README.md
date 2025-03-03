@@ -4,18 +4,25 @@ Let's dive in!
 
 🛠 Tech Stack
 HTML: Structure of the webpage
+
 CSS: Styling and layout, including responsive design
+
 JavaScript (GSAP & Locomotive Scroll): Animations and smooth scrolling effects
+
 Locomotive Scroll: Provides smooth and natural scroll interactions
+
 GSAP (GreenSock Animation Platform): Used for advanced animations and scroll-triggered effects
 
 🚀 Features
 Smooth Scrolling: Implemented using Locomotive Scroll
+
 Scroll-Triggered Animations: Using GSAP and ScrollTrigger
+
 Video Integration: High-quality Apple videos with autoplay and seamless looping
+
 Canvas Animation: 3D-like scrolling effect with dynamic image loading
-Responsive Design: Works seamlessly across devices
-effects
+
+Responsive Design: Works seamlessly across devices effects
 
 📂 Project Structure
 |-- index.html
@@ -28,7 +35,7 @@ effects
 🖥 Usage
 Scroll through the page to see interactive animations and video elements
 Experience smooth transitions and a high-end UI design
-g
+
 🤝 Contributing
 
 Feel free to submit issues and enhancement requests.
